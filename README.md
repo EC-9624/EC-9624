@@ -12,9 +12,9 @@ and grow, and I'm always looking for opportunities to apply my skills.
 
 ## 📚 I'm currently learning
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="GoLang" width="30px" style="padding-right:10px;" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 
-<img align="left" alt="Java" width="30px" height="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
+<img align="left" alt="Rust" width="30px" height="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
 
 <br/>
 
