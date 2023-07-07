@@ -18,7 +18,6 @@ and grow, and I'm always looking for opportunities to apply my skills.
 
 <br/>
 
-#
 
 ## 🧰 Languages and Tools
 
