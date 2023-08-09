@@ -8,7 +8,7 @@ and Mobile app Development I'm committed to writing clean, maintainable
 code and staying up to date with industry trends. I'm excited to learn
 and grow, and I'm always looking for opportunities to apply my skills.
 
-## 🧰 Languages and Tools
+## 🔧 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
