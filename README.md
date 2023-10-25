@@ -10,7 +10,7 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 ## 🔧 Languages and Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,php,java,laravel,nodejs,mongodb,react,nextjs,tailwind,mysql,planetscale,postgres,firebase&perline=9" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,php,java,python,laravel,nodejs,mongodb,react,nextjs,tailwind,mysql,planetscale,postgres,firebase&perline=9" />
   </a>
 </p>
 
