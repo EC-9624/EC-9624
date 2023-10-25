@@ -25,6 +25,7 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
   <img align="left" alt="Mysql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="left" alt="Mongodb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
+<br/>
 
 ## 📚 I'm currently learning
 <div style="display: flex; flex-wrap: wrap;">
@@ -35,6 +36,7 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <img  align="left" alt="Graphql" width="30px" height="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Aws" width="30px" height="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 </div> 
+<br/>
 
 ### 📊 Stats
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EC-9624&show_icons=true&theme=gruvbox&count_private=true" />
