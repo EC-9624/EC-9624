@@ -22,7 +22,7 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 </p>
 
 ### 📊 Stats
-<p>
+<p style="display: flex">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EC-9624&show_icons=true&theme=gruvbox&count_private=true"/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EC-9624&layout=compact&theme=gruvbox" />  
 </p>
