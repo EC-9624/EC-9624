@@ -15,13 +15,12 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 </p>
 
 ## 📚 I'm currently learning
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,kotlin,androidstudio,graphql,docker,kubernetes,gcp,aws,&perline=9" />
-  </a>
-</p>
 
-### 📊 Stats
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust,kotlin,androidstudio,graphql,docker,kubernetes,gcp,aws" />
+  </a>
+
+## 📊 Stats
 <p style="display: flex">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EC-9624&show_icons=true&theme=gruvbox&count_private=true"/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EC-9624&layout=compact&theme=gruvbox" />  
