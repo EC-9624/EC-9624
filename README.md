@@ -24,11 +24,11 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   25 hrs 48 mins  ████████████████████▒░░░░   81.57 %
-Python       1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Other        1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-YAML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+TypeScript   22 hrs 18 mins  ██████████████████▒░░░░░░   73.87 %
+Python       3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Other        1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+JavaScript   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+YAML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
