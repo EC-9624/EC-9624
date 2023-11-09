@@ -19,7 +19,7 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
     <img src="https://skillicons.dev/icons?i=go,rust,kotlin,androidstudio,graphql,docker,kubernetes,gcp,aws" />
   </a>
 
-## Waka Stats
+## 🕗 This week i spend times on
 
 <!--START_SECTION:waka-->
 
