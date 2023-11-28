@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2023 - To: 26 November 2023
+From: 20 November 2023 - To: 27 November 2023
 
-Total Time: 19 hrs 57 mins
+Total Time: 18 hrs 52 mins
 
-TypeScript             14 hrs 9 mins   █████████████████▓░░░░░░░   70.93 %
-Python                 3 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-Kotlin                 1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-JavaScript             25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-JSON                   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+TypeScript             13 hrs 53 mins  ██████████████████▒░░░░░░   73.55 %
+JavaScript             2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Kotlin                 1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Python                 1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+HTML                   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
