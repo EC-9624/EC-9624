@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2024 - To: 04 February 2024
+From: 29 January 2024 - To: 05 February 2024
 
-Total Time: 9 hrs 11 mins
+Total Time: 8 hrs 11 mins
 
-Python       6 hrs 26 mins   █████████████████░░░░░░░░   68.10 %
-Go           1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Kotlin       34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-JavaScript   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Text         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Python       5 hrs 43 mins   █████████████████░░░░░░░░   68.33 %
+Go           1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+JavaScript   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Kotlin       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Text         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
 ```
 
 <!--END_SECTION:waka-->
