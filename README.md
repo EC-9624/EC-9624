@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2024 - To: 22 March 2024
+From: 16 March 2024 - To: 23 March 2024
 
-Total Time: 4 hrs 13 mins
+Total Time: 3 hrs 30 mins
 
-JavaScript   3 hrs           ██████████████████░░░░░░░   71.47 %
-Python       36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-Markdown     33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JavaScript   2 hrs 23 mins   █████████████████░░░░░░░░   68.28 %
+Python       36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+Markdown     28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
