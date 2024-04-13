@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 11 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-Total Time: 1 hr 19 mins
+Total Time: 1 hr 27 mins
 
-Kotlin                 1 hr 1 min      ███████████████████▒░░░░░   77.42 %
-TypeScript             6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-JavaScript             4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-XML                    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Properties             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Kotlin                 1 hr 1 min      █████████████████▓░░░░░░░   70.07 %
+JavaScript             12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+TypeScript             6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+XML                    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Properties             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
