@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2024 - To: 04 June 2024
+From: 29 May 2024 - To: 05 June 2024
 
-Total Time: 12 hrs 27 mins
+Total Time: 13 hrs 18 mins
 
-TypeScript                    8 hrs 2 mins    ████████████████░░░░░░░░░   64.56 %
-Go                            2 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-Java                          59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-JavaScript Testing Snapshot   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-JavaScript                    22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+TypeScript                    8 hrs 8 mins    ███████████████▒░░░░░░░░░   61.22 %
+Go                            2 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+Java                          59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+YAML                          43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+JavaScript Testing Snapshot   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
