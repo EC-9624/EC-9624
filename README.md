@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2024 - To: 14 July 2024
+From: 08 July 2024 - To: 15 July 2024
 
-Total Time: 10 hrs 9 mins
+Total Time: 12 hrs 50 mins
 
-YAML                       3 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.15 %
-Python                     2 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
-JSON                       1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-TypeScript                 55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Java                       53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+YAML                  3 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.84 %
+Python                2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+SQL                   1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+JavaScript            1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+JSON                  1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
 ```
 
 <!--END_SECTION:waka-->
