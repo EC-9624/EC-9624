@@ -24,7 +24,7 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2024 - To: 01 August 2024
+From: 28 July 2024 - To: 04 August 2024
 
 Total Time: 12 hrs 36 mins
 
