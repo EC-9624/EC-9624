@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2024 - To: 25 August 2024
+From: 19 August 2024 - To: 26 August 2024
 
-Total Time: 15 hrs 12 mins
+Total Time: 14 hrs 55 mins
 
-TypeScript            9 hrs 2 mins    ██████████████▓░░░░░░░░░░   59.14 %
-CSS                   5 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   38.43 %
-Git                   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Smarty                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Other                 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript   7 hrs 40 mins   ████████████▓░░░░░░░░░░░░   51.15 %
+CSS          7 hrs 4 mins    ███████████▓░░░░░░░░░░░░░   47.16 %
+Git          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
