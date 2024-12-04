@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2024 - To: 02 December 2024
+From: 26 November 2024 - To: 03 December 2024
 
-Total Time: 1 hr 46 mins
+Total Time: 4 hrs 34 mins
 
-SQL          1 hr 34 mins    ██████████████████████░░░   88.40 %
-HTML         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Go           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JavaScript            1 hr 55 mins    ██████████▒░░░░░░░░░░░░░░   41.98 %
+SQL                   1 hr 34 mins    ████████▓░░░░░░░░░░░░░░░░   34.40 %
+HTML                  35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Go                    24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+TypeScript            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
