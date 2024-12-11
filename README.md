@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2024 - To: 09 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
-Total Time: 16 hrs 8 mins
+Total Time: 17 hrs 8 mins
 
-TypeScript                 6 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   36.98 %
-JavaScript                 3 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-Go                         1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-HTML                       1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Nginx Configuration        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+TypeScript                 8 hrs 9 mins    ███████████▓░░░░░░░░░░░░░   46.72 %
+Go                         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+JavaScript                 1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Nginx Configuration        1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Makefile                   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
 ```
 
 <!--END_SECTION:waka-->
