@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2024 - To: 16 December 2024
+From: 10 December 2024 - To: 17 December 2024
 
-Total Time: 12 hrs 43 mins
+Total Time: 12 hrs 23 mins
 
-TypeScript            8 hrs 18 mins   ████████████████▒░░░░░░░░   65.26 %
-VCL                   1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Nginx Configuration   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Terraform             36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Smarty                24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+TypeScript            6 hrs 49 mins   █████████████▓░░░░░░░░░░░   55.10 %
+VCL                   4 hrs 5 mins    ████████▒░░░░░░░░░░░░░░░░   33.00 %
+Terraform             36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Nginx Configuration   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Astro                 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
