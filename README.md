@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2024 - To: 19 December 2024
+From: 15 December 2024 - To: 22 December 2024
 
-Total Time: 10 hrs 47 mins
+Total Time: 9 hrs 51 mins
 
-TypeScript            6 hrs 39 mins   ███████████████▒░░░░░░░░░   61.76 %
-VCL                   2 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
-JavaScript            54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Astro                 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Git                   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript            4 hrs 58 mins   ████████████▓░░░░░░░░░░░░   50.44 %
+VCL                   3 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.16 %
+JavaScript            54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+Astro                 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Makefile              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
