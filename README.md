@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2025 - To: 15 January 2025
+From: 09 January 2025 - To: 16 January 2025
 
-Total Time: 20 hrs 14 mins
+Total Time: 20 hrs 16 mins
 
-TypeScript                 12 hrs 36 mins  ███████████████▓░░░░░░░░░   62.29 %
-Makefile                   2 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Astro                      1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-JavaScript                 1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Bash                       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+TypeScript                 12 hrs 30 mins  ███████████████▒░░░░░░░░░   61.66 %
+Makefile                   2 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+JavaScript                 50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Python                     45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Bash                       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
