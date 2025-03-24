@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2025 - To: 20 March 2025
+From: 16 March 2025 - To: 23 March 2025
 
-Total Time: 17 hrs 55 mins
+Total Time: 15 hrs 14 mins
 
-TypeScript       16 hrs 32 mins  ███████████████████████░░   92.30 %
-CSS              44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Git              27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Blade Template   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript       14 hrs 35 mins  ████████████████████████░   95.66 %
+Git              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Blade Template   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+CSS              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
