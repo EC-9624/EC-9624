@@ -24,13 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2025 - To: 29 April 2025
+From: 23 April 2025 - To: 30 April 2025
 
-Total Time: 9 mins
+Total Time: 2 hrs 48 mins
 
-SQL    8 mins          ███████████████████████▒░   93.36 %
-CSS    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-YAML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Go       2 hrs 34 mins   ███████████████████████░░   91.59 %
+SQL      8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+HTML     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
