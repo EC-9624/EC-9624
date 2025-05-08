@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2025 - To: 06 May 2025
+From: 30 April 2025 - To: 07 May 2025
 
-Total Time: 12 hrs 50 mins
+Total Time: 18 hrs 29 mins
 
-CSS              4 hrs 54 mins   █████████▓░░░░░░░░░░░░░░░   38.16 %
-Go               4 hrs 13 mins   ████████▒░░░░░░░░░░░░░░░░   32.88 %
-HTML             3 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
-XML              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-PHP              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+CSS              9 hrs 23 mins   ████████████▓░░░░░░░░░░░░   50.83 %
+HTML             6 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   35.35 %
+Go               1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+XML              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Git              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
