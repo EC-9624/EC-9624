@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 May 2025 - To: 28 May 2025
+From: 22 May 2025 - To: 29 May 2025
 
-Total Time: 20 hrs 37 mins
+Total Time: 20 hrs 30 mins
 
-PHP          18 hrs 34 mins  ███████████████████▓░░░░░   78.75 %
-Other        2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-Docker       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-YAML         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-INI          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+PHP          18 hrs 20 mins  █████████████████████▓░░░   87.29 %
+Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+INI          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+SQL          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+YAML         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
