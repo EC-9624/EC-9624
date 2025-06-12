@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 10 June 2025
+From: 04 June 2025 - To: 11 June 2025
 
-Total Time: 23 hrs 12 mins
+Total Time: 24 hrs 12 mins
 
-PHP              20 hrs 50 mins  ██████████████████████▒░░   89.17 %
-SQL              41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Markdown         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Git              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-YAML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+PHP              16 hrs 15 mins  ████████████████▒░░░░░░░░   65.48 %
+Go               4 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   20.09 %
+Other            38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+SQL              37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+YAML             36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
