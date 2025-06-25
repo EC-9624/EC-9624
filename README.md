@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 23 June 2025
+From: 17 June 2025 - To: 24 June 2025
 
-Total Time: 26 hrs 6 mins
+Total Time: 27 hrs 28 mins
 
-PHP                   14 hrs 14 mins  █████████████▓░░░░░░░░░░░   54.57 %
-TypeScript            5 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
-Blade Template        2 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-SQL                   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Docker                23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+PHP                   15 hrs 1 min    █████████████▓░░░░░░░░░░░   54.66 %
+TypeScript            8 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+SQL                   1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Blade Template        56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Smarty                24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
