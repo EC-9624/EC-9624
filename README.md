@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2025 - To: 05 August 2025
+From: 30 July 2025 - To: 06 August 2025
 
-Total Time: 15 hrs 17 mins
+Total Time: 13 hrs 15 mins
 
-TypeScript     12 hrs 30 mins  ████████████████████▒░░░░   81.76 %
-SQL            55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-CSS            39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-JavaScript     32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-JSON           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TypeScript   10 hrs 16 mins  ███████████████████▒░░░░░   77.48 %
+SQL          1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+CSS          49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+JavaScript   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
