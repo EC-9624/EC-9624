@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Total Time: 23 hrs
+Total Time: 22 hrs 56 mins
 
-TypeScript     17 hrs 21 mins  ███████████████████░░░░░░   75.48 %
-YAML           1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Smarty         1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-CSS            1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-JSON           57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+TypeScript     19 hrs 27 mins  █████████████████████▒░░░   84.79 %
+Smarty         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+CSS            1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+YAML           39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+PHP            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
