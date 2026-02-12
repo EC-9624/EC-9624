@@ -24,15 +24,15 @@ and grow, and I'm always looking for opportunities to apply my skills.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2026 - To: 10 February 2026
+From: 04 February 2026 - To: 11 February 2026
 
-Total Time: 13 hrs 44 mins
+Total Time: 11 hrs 31 mins
 
-TypeScript            10 hrs 36 mins  ███████████████████▒░░░░░   77.19 %
-PHP                   1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Smarty                24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Markdown              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-CSS                   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+TypeScript            8 hrs 13 mins   █████████████████▓░░░░░░░   71.30 %
+PHP                   1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+Markdown              32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Smarty                24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+JSON                  22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
